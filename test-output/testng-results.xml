@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25038" started-at="2016-06-26T17:04:27Z" finished-at="2016-06-26T17:04:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25038" started-at="2016-06-26T17:04:27Z" finished-at="2016-06-26T17:04:52Z">
+      <class name="sliders_dropdowns.SliderMove">
+        <test-method status="PASS" signature="slider_move()[pri:0, instance:sliders_dropdowns.SliderMove@6ea12c19]" name="slider_move" duration-ms="24991" started-at="2016-06-26T18:04:27Z" finished-at="2016-06-26T18:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slider_move -->
+      </class> <!-- sliders_dropdowns.SliderMove -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
