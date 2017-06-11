@@ -7,7 +7,7 @@
 <test name="FirefoxTestCases">
   <parameter name="browser" value="firefox"/>
   	<classes>
-    	<class name="crossBrowsers.VerifyTitle"/>
+    	<class name="crossBrowsers.VerifyTitle_CrossBrowsers"/>
     </classes>
   </test> 
 
@@ -15,7 +15,7 @@
  <test name="ChromeTestCases">
   <parameter name="browser" value="chrome"/>
   	<classes>
-    	<class name="crossBrowsers.VerifyTitle"/>
+    	<class name="crossBrowsers.VerifyTitle_CrossBrowsers"/>
     </classes>
  </test> 
   
@@ -23,7 +23,7 @@
  <test name="IETestCases">
   <parameter name="browser" value="ie"/>
   	<classes>
-    	<class name="crossBrowsers.VerifyTitle"/>
+    	<class name="crossBrowsers.VerifyTitle_CrossBrowsers"/>
     </classes>
  </test> 
  

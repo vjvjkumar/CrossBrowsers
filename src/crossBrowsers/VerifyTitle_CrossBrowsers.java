@@ -17,6 +17,7 @@ public class VerifyTitle_CrossBrowsers {
 		
 		if(browserName.equalsIgnoreCase("Firefox"))
 		{
+			System.setProperty("webdriver.gecko.driver","V:\\seleniumJars\\geckodriver.exe");
 			driver = new FirefoxDriver();
 		}
 		else if(browserName.equalsIgnoreCase("Chrome"))
